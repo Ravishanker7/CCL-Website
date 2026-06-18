@@ -20,6 +20,6 @@
     }
   ],
   "rewrites": [
-    { "source": "/comfort-clave", "destination": "/index.html" }
+    { "source": "/comfort-cave", "destination": "/index.html" }
   ]
 }
